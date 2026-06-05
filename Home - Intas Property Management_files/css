@@ -1,0 +1,37 @@
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: fallback;
+  src: url(https://web.archive.org/web/20240301070945im_/https://fonts.gstatic.com/s/barlow/v12/7cHqv4kjgoGqM7E30-8s51op.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: fallback;
+  src: url(https://web.archive.org/web/20240301070945im_/https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 07:09:45 Mar 01, 2024 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 08:52:44 May 31, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  capture_cache.get: 0.406
+  captures_list: 0.994 (2)
+  exclusion.robots: 0.141 (2)
+  exclusion.robots.policy: 0.121 (2)
+  esindex: 0.019 (2)
+  cdx.remote: 46.284 (2)
+  LoadShardBlock: 122.936 (6)
+  PetaboxLoader3.datanode: 126.463 (8)
+  load_resource: 162.873 (2)
+  PetaboxLoader3.resolve: 116.832 (2)
+*/
